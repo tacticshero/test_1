@@ -1,0 +1,3 @@
+kasparov
+kramnik
+karpov
